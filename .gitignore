@@ -1,5 +1,7 @@
-# Fast API
-__pycache__
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
 # MacOS
 .DS_Store
