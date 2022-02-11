@@ -1,2 +1,2 @@
-# sorare
+# Sorare
 Sorare Data Management Platform
