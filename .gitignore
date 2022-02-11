@@ -1,4 +1,7 @@
-#Mac
+# Fast API
+__pycache__
+
+# MacOS
 .DS_Store
 
 # Logs
